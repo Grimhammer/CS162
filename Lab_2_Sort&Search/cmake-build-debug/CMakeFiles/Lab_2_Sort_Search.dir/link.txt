@@ -1,0 +1,3 @@
+"D:\Program Files (x86)\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Lab_2_Sort_Search.dir/objects.a
+D:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe cr CMakeFiles\Lab_2_Sort_Search.dir/objects.a @CMakeFiles\Lab_2_Sort_Search.dir\objects1.rsp
+D:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Lab_2_Sort_Search.dir/objects.a -Wl,--no-whole-archive  -o Lab_2_Sort_Search.exe -Wl,--out-implib,libLab_2_Sort_Search.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Lab_2_Sort_Search.dir\linklibs.rsp

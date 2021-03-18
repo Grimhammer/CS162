@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lucas/CLionProjects/Lab_2_Sort&Search/Sort&Search.cpp
+Sort&Search.h
+C:/Users/lucas/CLionProjects/Lab_2_Sort&Search/Sort&Search.h
+iostream
+-
+iomanip
+-
+ctime
+-
+
+C:/Users/lucas/CLionProjects/Lab_2_Sort&Search/Sort&Search.h
+limits
+-
+iostream
+-
+
+C:/Users/lucas/CLionProjects/Lab_2_Sort&Search/main.cpp
+iostream
+-
+Sort&Search.h
+C:/Users/lucas/CLionProjects/Lab_2_Sort&Search/Sort&Search.h
+
